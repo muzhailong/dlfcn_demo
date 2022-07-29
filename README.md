@@ -7,6 +7,8 @@
 3. mutex
 
 ## 使用
-> mkdir build && cd build
-> cmake .. && make
-> ./main
+<pre>
+mkdir build && cd build
+cmake .. && make
+./main
+</pre>
